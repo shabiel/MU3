@@ -1,0 +1,8 @@
+KBANXDD - FILE 2
+3160928.215913 ZWR
+^DD(2,256000,0)="LANGUAGE PREFERENCE^P.85'O^DI(.85,^256000;1^Q"
+^DD(2,256000,2)="S Y(0)=Y S Y=$S($P(^DI(.85,+Y,0),U,2)]"""":$P(^(0),U,2),1:$P(^(0),U,3))"
+^DD(2,256000,2.1)="S Y=$S($P(^DI(.85,+Y,0),U,2)]"""":$P(^(0),U,2),1:$P(^(0),U,3))"
+^DD(2,256000,21,0)="^^1^1^3110524^"
+^DD(2,256000,21,1,0)="This field is to define the language preference of the patient."
+^DD(2,256000,"DT")=3160928
